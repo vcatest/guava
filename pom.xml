@@ -24,7 +24,7 @@
     <errorprone.version>2.41.0</errorprone.version>
     <j2objc.version>3.1</j2objc.version>
     <project.build.outputTimestamp>2025-01-02T00:00:00Z</project.build.outputTimestamp>
-    <sonar.organization>spyd3r98</sonar.organization>
+    <sonar.organization>vcatest</sonar.organization>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <!--
     Some tests need reflective access to the internals of these packages. It is only the
